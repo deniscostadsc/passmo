@@ -1,0 +1,22 @@
+{
+  "name": "passmo",
+  "version": "1.0.0",
+  "description": "A proof of concept about secure hashing passwords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hash",
+    "password"
+  ],
+  "author": [
+    "Ariana Cursino",
+    "Denis Costa"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
